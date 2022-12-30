@@ -1,5 +1,8 @@
 # ProyectoIntegradorMeneghiniCeciliaOrnella
 
+Este proyecto es un portafolio personal creado para el curso Argentina Programa - parte 2
+Frontend: Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
