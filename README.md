@@ -1,7 +1,6 @@
 # ProyectoIntegradorMeneghiniCeciliaOrnella
 
-Este proyecto es un portafolio personal creado para el curso Argentina Programa - parte 2
-Frontend: Angular
+Este proyecto es un portafolio personal creado para el curso [Argentina Programa - parte 2](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa#:~:text=¿Qué%20es%20Argentina%20Programa%204.0,del%20software%20y%20la%20tecnología.).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
