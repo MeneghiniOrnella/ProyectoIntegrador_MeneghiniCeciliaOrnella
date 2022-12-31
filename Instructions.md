@@ -8,4 +8,4 @@
 `C:\Proyects\ProyectoIntegrador_MeneghiniCeciliaOrnella> ng g c components/logoAP`
 4. [Agregar progreso](https://www.npmjs.com/package/ng-circle-progress)<br>
 `npm install ng-circle-progress --save`
-<!-- https://youtube.com/watch?v=z12K2sFvxcs&si=EnSIkaIECMiOmarE&t=927 -->
+<!-- https://youtube.com/watch?v=WKsJzGxcROE&si=EnSIkaIECMiOmarE&t=478 -->
