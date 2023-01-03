@@ -2,10 +2,12 @@ ul {
     list-style: none;
 }
 a {
-    color: black;
+    color: #fff;
     text-decoration: none;
 }
-a:hover {
-    background-color: crimson;
-    color: white;
+li {
+    max-height: 5em;
+}
+a:hover, a:focus {
+    color: #87ceeb;
 }
