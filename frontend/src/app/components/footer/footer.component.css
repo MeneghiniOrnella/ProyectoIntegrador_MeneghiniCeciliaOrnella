@@ -1,11 +1,11 @@
-.row {
+row {
     background-color: #000;
     color: #fff;
 }
-footer {
+/* .footer {
     font-size: 1em;
     display: flex;
     flex-direction: column;
     text-align: center;
     box-shadow: 2px -2px 5px greenyellow;
-}
+} */

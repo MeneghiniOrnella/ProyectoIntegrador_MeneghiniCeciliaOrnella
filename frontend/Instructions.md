@@ -11,3 +11,5 @@
 ## Backend
 1. [Spring initialzr](https://start.spring.io) Maven, Java, 2.6.7, para crear backend del proyecto<br>
 <!-- https://youtube.com/watch?v=WKsJzGxcROE&si=EnSIkaIECMiOmarE&t=478 -->
+
+[imagen de banner](https://designstripe.com/editor/?scene=68a6f1e8-fa12-42bb-aff8-3497dda1862d)
