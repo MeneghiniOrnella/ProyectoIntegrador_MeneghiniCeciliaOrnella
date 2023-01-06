@@ -1,0 +1,6 @@
+/* https://mdbootstrap.com/docs/standard/extended/login/ */
+.gradient-custom {
+    background: #6a11cb;
+    background: -webkit-linear-gradient(to right,  rgb(58, 98, 153), rgb(166, 192, 236));
+    background: linear-gradient(to right, rgb(58, 98, 153), rgb(166, 192, 236))
+    }

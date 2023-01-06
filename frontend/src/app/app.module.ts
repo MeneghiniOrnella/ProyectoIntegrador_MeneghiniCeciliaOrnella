@@ -11,11 +11,12 @@ import { ExperienceComponent } from './components/experience/experience.componen
 import { EducationComponent } from './components/education/education.component';
 
 import { NgCircleProgressModule } from 'ng-circle-progress';
-import { HysComponent } from './components/hys/hys.component';
 import { ProjectsComponent } from './components/projects/projects.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { LoginComponent } from './components/login/login.component';
 import { NavComponent } from './components/nav/nav.component';
+import { HomeComponent } from './components/home/home.component';
+import { SkillsComponent } from './components/skills/skills.component';
 
 @NgModule({
   declarations: [
@@ -25,11 +26,12 @@ import { NavComponent } from './components/nav/nav.component';
     AboutComponent,
     ExperienceComponent,
     EducationComponent,
-    HysComponent,
     ProjectsComponent,
     FooterComponent,
     LoginComponent,
-    NavComponent
+    NavComponent,
+    HomeComponent,
+    SkillsComponent
   ],
   imports: [
     BrowserModule,
