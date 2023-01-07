@@ -51,6 +51,22 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+                   
+                <dependency>
+                    <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security -->
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-starter-security</artifactId>
+                    <version>3.0.1</version>
+                </dependency>
+                
+                <dependency>
+                    <!-- https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-api -->
+                    <groupId>io.jsonwebtoken</groupId>
+                    <artifactId>jjwt-api</artifactId>
+                    <version>0.11.5</version>
+                </dependency>
+
+
 	</dependencies>
 
 	<build>
