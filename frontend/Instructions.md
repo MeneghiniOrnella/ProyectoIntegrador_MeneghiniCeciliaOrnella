@@ -13,6 +13,7 @@
 <!-- https://youtube.com/watch?v=WKsJzGxcROE&si=EnSIkaIECMiOmarE&t=478 -->
 
 [imagen de banner](https://designstripe.com/editor/?scene=68a6f1e8-fa12-42bb-aff8-3497dda1862d)
+[separador de sección del banner](https://wweb.dev/resources/css-separator-generator/)
 
 Source Package > com.portfolio.com > click derecho new > java package
 dentro de ese archivo > click derecho new > class
